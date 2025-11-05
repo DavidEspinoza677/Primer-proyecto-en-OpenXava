@@ -1,4 +1,4 @@
-package org.tuempresa.facturacion.run;
+package com.tuempresa.facturacion.run;
 
 import org.openxava.util.*;
 
